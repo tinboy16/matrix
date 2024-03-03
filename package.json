@@ -1,0 +1,22 @@
+{
+  "name": "matrix-tinboy",
+  "version": "1.0.0",
+  "description": "test matrix",
+  "main": "matix.js",
+  "scripts": {
+    "test": "node matrix.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinboy16/matrix.git"
+  },
+  "keywords": [
+    "matrix"
+  ],
+  "author": "tinboy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tinboy16/matrix/issues"
+  },
+  "homepage": "https://github.com/tinboy16/matrix#readme"
+}
