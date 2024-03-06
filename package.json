@@ -1,6 +1,6 @@
 {
   "name": "matrix-tinboy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test matrix",
   "main": "matix.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tinboy16/matrix.git"
+    "url": "https://github.com/tinboy16/matrix"
   },
   "keywords": [
     "matrix"
