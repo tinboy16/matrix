@@ -1,6 +1,6 @@
 {
   "name": "matrix-tinboy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "test matrix",
   "main": "matix.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/tinboy16/matrix"
+
   },
   "keywords": [
     "matrix"
@@ -17,6 +18,14 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/tinboy16/matrix/issues"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+	"tinboy" : "^0.1.1",
+	"matrix": "^1.0.3",
+	"tinnguyen": "^1.0.3",
+	"test": "^1.0.0"
   },
   "homepage": "https://github.com/tinboy16/matrix#readme"
 }
